@@ -1,0 +1,27 @@
+{
+  "name": "@intothesource/card",
+  "version": "1.0.0",
+  "description": "Material style card",
+  "main": "card.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intothesource/card.git"
+  },
+  "keywords": [
+    "material",
+    "card",
+    "container"
+  ],
+  "author": "Ramon Valk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/intothesource/card/issues"
+  },
+  "homepage": "https://github.com/intothesource/card#readme",
+  "devDependencies": {
+    "eslint": "^6.6.0"
+  }
+}
